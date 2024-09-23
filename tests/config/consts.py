@@ -1,0 +1,5 @@
+BASE_URL= "http://127.0.0.1:5500/home.html"
+BROWSER_TITLE = "Automation Project"
+PAGE_MAIN_TITLE = "Automation Project - Main Page"
+CITIES_TABLE = "Cities of the World"
+STUDENTS_TABLE = "Student Details"
